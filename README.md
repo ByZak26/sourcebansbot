@@ -3,7 +3,7 @@ It is a discord bot that connects to your Sourcebans database and sends the last
 
 ### INSTALLATION (linux)
 
-- git clone 
+- git clone https://github.com/ByZak26/sourcebansbot.git
 
 - pip install discord
 - pip install pymysql.cursors
