@@ -6,9 +6,9 @@ It is a discord bot that connects to your Sourcebans database and sends the last
 - pip install discord
 - pip install pymysql.cursors
 - pip install asyncio
-- 
+
 - git clone https://github.com/ByZak26/sourcebansbot.git
-- 
+
 - Modify the Token, Channel ID, Database info, and the query info from the database if u want, and the embed message (edit it like you want)
 - 
 - python bot.py
